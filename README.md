@@ -1,7 +1,6 @@
-![](https://github.com/kajolshah310/girlswhocode.gif)
 <h1 align="center">Hi ✌, I'm Kajol Shah</h1>
 <h3 align="left">I am an experienced Backend Developer and an AI/ML enthusiast</h3>
-
+<img align="right" alt="GIF" src="https://github.com/kajolshah310/kajolshah310/blob/main/girlswhocode.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajolshah310" alt="kajolshah310" /> </p>
 
 <li align="left"> 🔭 I’m currently exploring Machine Learning, Computer Vision and Natural Language Processing Field</a></li>
