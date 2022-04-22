@@ -3,11 +3,11 @@
 <img align="right" alt="GIF" src="https://github.com/kajolshah310/kajolshah310/blob/main/girlswhocode.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajolshah310" alt="kajolshah310" /> </p>
 
-<li align="left"> 🔭 I’m currently exploring Machine Learning, Computer Vision and Natural Language Processing Field</a></li>
+<li align="left"> 🔭 I’m currently exploring Machine Learning, Data Science, Computer Vision and Natural Language Processing Field</a></li>
 
 <li align="left"> 📫 Follow me on LinkedIn ➡︎ <a href="https://www.linkedin.com/in/kajol-t-shah/">Kajol Shah</a></li>
 
-<li align="left"> 🔬 Find my technical blogs on ➡︎ <a href="https://medium.com/@kajolshah">Medium Blog</a></li>
+<li align="left"> 🔬 Find my technical blogs on ➡︎ <a href="https://medium.com/@kajolshah">Medium</a></li>
 
 <li align="left"> 💬 Ask me about ➡︎ <b> Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
 
