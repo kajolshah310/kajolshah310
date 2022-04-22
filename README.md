@@ -1,6 +1,7 @@
+![](https://github.com/kajolshah310/girlswhocode.gif)
 <h1 align="center">Hi ✌, I'm Kajol Shah</h1>
 <h3 align="left">I am an experienced Backend Developer and an AI/ML enthusiast</h3>
-<img align="right" alt="GIF" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2Fgifs%2Fgirl-code&psig=AOvVaw3JSUUAsf9YfEUObrjTAwF4&ust=1650728517936000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCMi564mBqPcCFQAAAAAdAAAAABAO" width="400px" height="300px"/>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajolshah310" alt="kajolshah310" /> </p>
 
 <li align="left"> 🔭 I’m currently exploring Machine Learning, Computer Vision and Natural Language Processing Field</a></li>
