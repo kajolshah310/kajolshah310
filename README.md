@@ -11,7 +11,7 @@
 
 <li align="left"> 💬 Ask me about ➡︎ <b> Machine Learning, Data Science, Computer Vision, NLP, SQL, Python, R, Linux </b></li>
 
-<li align="left"> 📫 Reach me at ➡︎ <b>kajol.shah310@gmail.com</b></li>
+<li align="left"> 📫 Reach me at ➡︎ <b>kajolshahsm@gmail.com</b></li>
 
 <li align="left"> ⚡ Interesting fact ➡︎ <b>I have done Microsoft Certified Azure and AI Fundamentals certifications.</b></li><br/><br/>
 
