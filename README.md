@@ -1,5 +1,4 @@
 <h1 align="center">꧁𓊈𒆜🅺🅰🅹🅾🅻 🆂🅷🅰🅷𒆜𓊉꧂</h1>
-<h3 align="left">I am an experienced AI/ML Engineer</h3>
 
 <h2 align="left"><i>About Me</i></h2>
 <h3 align="left"><i>I am an experienced AI/ML Engineer with a passion for solving complex problems using cutting-edge technologies. My expertise lies in Machine Learning, Data Science, Computer Vision, and Natural Language Processing fields</i></h3>
