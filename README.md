@@ -1,7 +1,7 @@
 <h1 align="center">꧁𓊈𒆜🅺🅰🅹🅾🅻 🆂🅷🅰🅷𒆜𓊉꧂</h1>
 
 <h2 align="left"><i>About Me 🍁</i></h2>
-<h3 align="left"><i>I am an experienced AI/ML Engineer with a passion for solving complex problems using cutting-edge technologies. My expertise lies in Machine Learning, Data Science, Computer Vision, and Natural Language Processing fields</i></h3>
+<li align="left"><i>I am an experienced AI/ML Engineer with a passion for solving complex problems using cutting-edge technologies. My expertise lies in Machine Learning, Data Science, Computer Vision, and Natural Language Processing fields</i></li>
 <img align="right" alt="GIF" src="https://github.com/kajolshah310/kajolshah310/blob/main/girls_code3.gif" width="400px" height="300px"/>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kajolshah310" alt="kajolshah310" /> </p>
 
