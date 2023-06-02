@@ -1,4 +1,4 @@
-<h1 align="center">Hi there! ✌ I'm Kajol Shah</h1>
+<h1 align="center"><i>Hi there! ✌ I'm Kajol Shah</i></h1>
 <h2 align="left">About Me</h2>
 <h3 align="left">I am an experienced AI/ML Engineer with a passion for solving complex problems using cutting-edge technologies. My expertise lies in Machine Learning, Data Science, Computer Vision, and Natural Language Processing fields.</h3>
 <img align="right" alt="GIF" src="https://github.com/kajolshah310/kajolshah310/blob/main/girlswhocode.gif" width="400px" height="300px"/>
