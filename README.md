@@ -10,10 +10,10 @@
 <h2 align="left">My Interests and Expertise</h2>
 
 <li align="left"> 💬 Ask me about: Machine Learning, Data Science, Computer Vision, NLP, Data Analysis, Python, SQL </b></li>
-<li align="left"> 🌱 Check out my technical blogs on Medium: <a href="https://medium.com/@kajolshah">Medium</a></li>
+<li align="left"> 🌱 Check out my technical blogs on: <a href="https://medium.com/@kajolshah">Medium</a></li>
 
 <h2 align="left">Certifications</h2>
-<li align="left">AWS Certified Cloud Practitioner</b></li><br/><br/>
+<li align="left">AWS Certified Cloud Practitioner</b></li>
 <li align="left"> <b>Microsoft Certified Azure and AI Fundamentals certifications</b></li><br/><br/>
 
 <p align="left">
