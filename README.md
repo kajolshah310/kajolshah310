@@ -30,11 +30,6 @@
 </p>
 
 <p align="center">
-<br/><br/>
-<img src="https://github-readme-stats.vercel.app/api?username=kajolshah310&theme=blue-green&show_icons=true" alt="kajolshah310" />
-</p>
-
-<p align="center">
 <br/>
  <span style="background-color: #00FFFF">“<i> Whatever happens, life goes on!” </i></span>
 </p>
