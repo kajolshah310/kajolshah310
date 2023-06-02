@@ -1,4 +1,7 @@
-<h1 align="center"><i>Hi there! ✌ I'm Kajol Shah</i></h1>
+<p align="center">
+  <a href="https://github.com/kajolshah310">
+    <img src="https://user-images.githubusercontent.com/74038190/206688648-cf6a7268-47b1-4bf1-b6ce-84bf9fd97b38.png" alt="Kajol Shah" title="Hi there"/></a>
+</p>
 <h2 align="left"><i>About Me</i></h2>
 <h3 align="left"><i>I am an experienced AI/ML Engineer with a passion for solving complex problems using cutting-edge technologies. My expertise lies in Machine Learning, Data Science, Computer Vision, and Natural Language Processing fields</i></h3>
 <img align="right" alt="GIF" src="https://github.com/kajolshah310/kajolshah310/blob/main/girlswhocode.gif" width="400px" height="300px"/>
