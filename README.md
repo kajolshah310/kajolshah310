@@ -32,7 +32,7 @@
 
 <p align="center">
 <br/>
- <span style="background-color: #00FFFF">“<i> Whatever happens, life goes on!” </i></span>
+ <span style="background-color: #00FFFF">“<i> Whatever happens, life goes on!🧡” </i></span>
 </p>
 
 <br/>
